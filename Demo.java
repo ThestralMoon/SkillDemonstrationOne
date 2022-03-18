@@ -1,1 +1,6 @@
-public class Demo {}
+public class Demo {
+
+    public static double multiply(double a, double b) {
+        return a * b;
+    }
+}
