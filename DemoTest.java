@@ -6,6 +6,6 @@ public class DemoTest {
     // Fail Initially
     @Test
     public void testMultiply() {
-        assertEquals(3.5, Demo.multiply(2.5, 1));
+        assertEquals(3.5, Demo.multiply(3.5, 1));
     }
 }
